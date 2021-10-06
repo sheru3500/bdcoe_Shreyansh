@@ -1,1 +1,5 @@
-hello worlds
+hello world
+init-load git into the folder
+add-for putting all the data in the stage area
+commit- to label the data 
+push-to load the fil on github
